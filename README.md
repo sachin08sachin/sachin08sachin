@@ -1,12 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sachin S.G.</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate Frontend Developer developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin08sachin&label=Profile%20views&color=0e75b6&style=flat" alt="sachin08sachin" /> </p>
 
-- 🌱 I’m currently learning **Fullstack (MERN) web Development**
+- 🌱 I’m currently learning **Frontend Development**
+
+- - 👨‍💻 All of my projects are available at [https://playful-stroopwafel-88f202.netlify.app/)
+
+- 💬 Ask me about Frontend development
 
 - 📫 How to reach me **sgsachin359@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fDLFo5xX1DUFx7Z0GF_Mlj0MFNjOXdIr/view?usp=sharing](https://drive.google.com/file/d/1fDLFo5xX1DUFx7Z0GF_Mlj0MFNjOXdIr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
