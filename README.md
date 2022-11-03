@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **Frontend Development**
 
-- - 👨‍💻 All of my projects are available at [https://playful-stroopwafel-88f202.netlify.app/)
+- - 👨‍💻 All of my projects are available at [https://harmonious-biscotti-9cbb1a.netlify.app/)
 
 - 💬 Ask me about Frontend development
 
 - 📫 How to reach me **sgsachin359@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fDLFo5xX1DUFx7Z0GF_Mlj0MFNjOXdIr/view?usp=sharing](https://drive.google.com/file/d/1fDLFo5xX1DUFx7Z0GF_Mlj0MFNjOXdIr/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1r4nsXw0yp_i0FJXQ-tYHeqE8s9RwOdmR/view?usp=share_link](https://drive.google.com/file/d/1r4nsXw0yp_i0FJXQ-tYHeqE8s9RwOdmR/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
