@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Frontend Development**
 
-- - 👨‍💻 All of my projects are available at [https://harmonious-biscotti-9cbb1a.netlify.app/)
+- - 👨‍💻 All of my projects are available at [https://leafy-marzipan-94358d.netlify.app/)
 
 - 💬 Ask me about Frontend development
 
