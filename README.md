@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sachin S.G.</h1>
-<h3 align="center">A passionate Frontend Developer developer from India</h3>
+<h3 align="center">A passionate Fullstack Developer developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin08sachin&label=Profile%20views&color=0e75b6&style=flat" alt="sachin08sachin" /> </p>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently working in **MERN**stack with heavy frontend
 
-- - 👨‍💻 All of my projects are available at [https://leafy-marzipan-94358d.netlify.app/)
+- - 👨‍💻 All of my initial(fresher) projects are available at [https://leafy-marzipan-94358d.netlify.app/)
 
-- 💬 Ask me about Frontend development
+- 💬 Ask me about Frontend development/MERN
 
-- 📫 How to reach me **sgsachin359@gmail.com**
+- 📫 How to reach me **sachinsg.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1r4nsXw0yp_i0FJXQ-tYHeqE8s9RwOdmR/view?usp=share_link](https://drive.google.com/file/d/1r4nsXw0yp_i0FJXQ-tYHeqE8s9RwOdmR/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/10NE3JzyMJLwYZYIupV8SOF6OLks1yLaE/view?usp=drive_link]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
